@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using POO2_Projeto.Data;
+using DataAccess;
 
 var builder = WebApplication.CreateBuilder(args);
 

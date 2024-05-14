@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using POO2_Projeto.Models;
+using Entities;
 using System.Diagnostics;
 
 namespace POO2_Projeto.Controllers
